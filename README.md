@@ -1,2 +1,2 @@
-# Mano_Management
+# Mango_Management
 Mango Business Management
