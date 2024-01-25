@@ -1,0 +1,17 @@
+.nav-item {
+    margin-bottom: 10px;
+  }
+
+.nav-link{
+    display: block;
+    color: white;
+    margin-top: 2px;
+    transition: background-color 0.3s, box-shadow 0.3s; 
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: rgb(255, 123, 0);
+    border: 1px solid rgb(255, 123, 0);
+    text-decoration: none;
+}
